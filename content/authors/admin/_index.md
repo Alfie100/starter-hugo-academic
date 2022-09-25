@@ -27,7 +27,7 @@ education:
       institution: City U
       year: 2022
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: University
       year: 2008
 email: ""
 superuser: true
