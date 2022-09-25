@@ -3,7 +3,7 @@ widget: pages
 widget_id: Publications
 headless: true
 weight: 60
-title: new publication in 2022
+title: ""
 subtitle: ""
 content:
   filters:
