@@ -1,6 +1,7 @@
 ---
 title: Alfie ZHANG
 role: Researcher of Artificial Intelligence
+avatar_filename: https://upload-images.jianshu.io/upload_images/6858178-531f0544ddfc1fd0.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp
 bio: My research interests include computational social science, network science,
 interests:
   - Artificial Intelligence
